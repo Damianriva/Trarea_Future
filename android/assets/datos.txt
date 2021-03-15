@@ -1,0 +1,3 @@
+Este texto
+estaba
+en los assets
